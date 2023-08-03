@@ -6,6 +6,8 @@
 
 - Built with API, Python, Scikit-learn, Pandas, NLP
 
+- Project was updated and presented April 2023 to [DataWorks MD](https://www.meetup.com/dataworks/events/292161216)
+
 [Comparing Video Game Match Lengths Across Geographical Regions](Dota%20Game%20Length%20Across%20Regions.ipynb)
 
 - Perform statistical analysis with ANOVA and confidence intervals on publicly available data to see if the duration of DOTA 2 matches is significantly different for players in different areas of the world 
