@@ -1,12 +1,12 @@
 # Data Science Projects - Patrick Beben
 
-[Board Game Recommendation Engine](Boardgame_Recommendation_Engine.ipynb)
+[Board Game Recommendation Engine](Boardgame%20Recommendation%20Engine.ipynb)
 
 - Compile top 10k games from the BoardGameGeek API and make recommendations based on TF-IDF vectorization and categorization tags using Nearestneighbors
 
-- Built with API, Python, Scikit-learn, Pandas, NLP
+- Built with BeautifulSoup API, Python, Scikit-learn, Pandas, NLP
 
-- Project was updated and presented April 2023 to [DataWorks MD](https://www.meetup.com/dataworks/events/292161216)
+- Project was updated and [presented](Board%20Game%20Recommendation%20System.pdf) April 2023 to [DataWorks MD](https://www.meetup.com/dataworks/events/292161216)
 
 [Comparing Video Game Match Lengths Across Geographical Regions](Dota%20Game%20Length%20Across%20Regions.ipynb)
 
